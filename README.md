@@ -25,5 +25,12 @@ Our social app is designed to offer users a native mobile experience while brows
 To set up the development environment for this project:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/social-app.git
+
+    ```shell
+    git clone https://github.com/mizzath2003/Snapgram.git
+    ```
+
+2. **Install the dependencies:**
+
+    ```shell
+    npm install
