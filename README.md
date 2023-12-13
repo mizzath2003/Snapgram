@@ -28,9 +28,15 @@ To set up the development environment for this project:
 
     ```shell
     git clone https://github.com/mizzath2003/Snapgram.git
-    ```
 
 2. **Install the dependencies:**
 
     ```shell
     npm install
+
+4. **Run the app:**
+
+    ```shell
+    npm start
+    ```
+
