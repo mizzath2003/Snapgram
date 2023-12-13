@@ -2,6 +2,8 @@
 
 A modern social app crafting a stunning user interface with a native mobile feel and exceptional performance.
 
+[![Music App](img.jpg)](https://snapgramv1.netlify.app/)
+
 ## Overview 📱
 
 Our social app is designed to offer users a native mobile experience while browsing through social content.
