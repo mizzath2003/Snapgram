@@ -1,4 +1,4 @@
-# Modern Social App 🚀
+# Modern Social App 📱🌐
 
 A modern social app crafting a stunning user interface with a native mobile feel and exceptional performance.
 
